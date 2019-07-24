@@ -4,9 +4,9 @@ Nanvix Toolchain
 This repository hosts the standard development tools for building,
 running and debugging Nanvix.
 
-The toolchain for each target architecture that is supported is kept
-in a different branch. To get the toolchain that you need, checkout to
-the designed branch.
+The toolchain for each target architecture that Nanvix supports is
+kept in a different branch. To get the toolchain that you need,
+checkout to the branch of the desired target.
 
 
 **x86**
